@@ -1,6 +1,5 @@
 # Northwind – Datenbankschema (ERD)
 
-GitHub rendert Mermaid-Diagramme nativ. Das Schema wird direkt hier angezeigt.
 
 ```mermaid
 erDiagram
