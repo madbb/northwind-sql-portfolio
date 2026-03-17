@@ -127,6 +127,8 @@ END;
 
 ## 📈 Datenbankschema (ERD)
 
+→ [Vollständiges ERD mit allen Spalten ansehen](erd.md)
+
 ```
 categories ──< products ──< order_details >── orders >── customers
                                                   │
